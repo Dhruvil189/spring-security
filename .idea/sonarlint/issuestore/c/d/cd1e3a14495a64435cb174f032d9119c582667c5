@@ -1,0 +1,6 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(¾ïÏúùÿÿÿÿ8äË û†0
+]	java:S125("<This block of commented-out lines of code should be removed.(¹¡óşÿÿÿÿ8ôË û†0
+g
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8ôË û†0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷Ëúÿÿÿÿ8ôË û†0

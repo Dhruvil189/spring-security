@@ -1,0 +1,9 @@
+
+b	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(íÑõË8´ìÊÜ0
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‚Â½›8µìÊÜ0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ó÷îZ8ÁìÊÜ0
+l
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ûê½ÿÿÿÿÿ8ĞìÊÜ0
+O
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ÜìÊÜ0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷Ëúÿÿÿÿ8İìÊÜ0

@@ -1,0 +1,10 @@
+
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(é·ŠÕ8¯ñÊÜ0
+r
+java:S1128"URemove this unused import 'org.springframework.boot.autoconfigure.domain.EntityScan'.(›Ù¯8ºñÊÜ0
+ƒ
+java:S1128"fRemove this unused import 'org.springframework.boot.autoconfigure.security.SecurityAutoConfiguration'.(ØÔ¬ô8¼ñÊÜ0
+s
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8½ñÊÜ0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷Ëúÿÿÿÿ8ÀñÊÜ0
